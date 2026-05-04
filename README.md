@@ -1,20 +1,19 @@
 # Attomind Core
 
-Foundational system design for Attomind Lab.
+Early architecture for Attomind Lab’s business systems.
 
-Building simple, reliable infrastructure for business operations — designed to scale without complexity.
+Focused on building modular, scalable, and maintainable foundations for real-world operations.
 
 ---
 
 ## Approach
 
-- Not chasing complexity
-- Structure over feature overload
-- Long-term thinking over quick fixes
+- Avoid unnecessary abstraction
+- Design for clarity and extensibility
+- Prioritize long-term system health
 
 ---
 
 ## Status
 
-Early exploration.
-Work in progress.
+Early stage. Active development.
