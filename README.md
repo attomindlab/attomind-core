@@ -8,13 +8,13 @@ Building simple, reliable infrastructure for business operations — designed to
 
 ## Approach
 
-- Not chasing complexity  
-- Structure over feature overload  
-- Long-term thinking over quick fixes  
+- Not chasing complexity
+- Structure over feature overload
+- Long-term thinking over quick fixes
 
 ---
 
 ## Status
 
-Early exploration.  
+Early exploration.
 Work in progress.
